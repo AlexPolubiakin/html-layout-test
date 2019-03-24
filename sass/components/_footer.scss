@@ -1,0 +1,33 @@
+.footer-box {
+  background: #777;
+  height: 100%;
+}
+.footer-box-3 {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.footer-box-sub {
+  background: #777;
+  height: 80px;
+  width: 100%;
+}
+
+.footer-list-1 {
+  background: #777;
+  padding: 1.5rem;
+  column-count: 2;
+  li {
+    color: white;
+  }
+}
+.footer-list-2 {
+  background: #777;
+  padding: 1.5rem;
+  list-style-type: square;
+  li {
+    color: white;
+  }
+}

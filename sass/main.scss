@@ -1,0 +1,17 @@
+// Import abstract
+@import "sass/abstract/variables";
+@import "sass/abstract/mixins";
+// Import base
+@import "sass/base/animations";
+@import "sass/base/base";
+@import "sass/base/typhography";
+@import "sass/base/utilities";
+// Import Layout
+@import "sass/layout/layout";
+
+// import components
+@import "sass/components/header";
+@import "sass/components/footer";
+@import "sass/components/line";
+@import "sass/components/main";
+@import "sass/components/side";

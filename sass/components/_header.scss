@@ -1,0 +1,15 @@
+.header-box {
+  height: 110px;
+  background: #777;
+}
+.header-list {
+  list-style-type: none;
+  text-align: right;
+  padding: 1rem;
+  li {
+    a {
+      color: white;
+      text-decoration: none;
+    }
+  }
+}

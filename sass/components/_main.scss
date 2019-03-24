@@ -1,0 +1,27 @@
+.main-box {
+  padding: 1.5rem;
+}
+.main-box {
+  padding: 1.5rem;
+  &-1 {
+    background: #dcdcdc;
+  }
+}
+
+.main-list {
+  padding: 0 2rem;
+}
+.main-image-list__wrapper {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.image-box {
+  margin: 0.5%;
+  width: 19%;
+}
+.main-text-wrapper {
+  background: #dcdcdc;
+  height: 100%;
+  padding: 1rem;
+}

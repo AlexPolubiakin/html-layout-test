@@ -1,0 +1,21 @@
+.side {
+  height: 100%;
+}
+.side-box__wrapper {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.side-list {
+  background: #777;
+  list-style-type: none;
+  padding: 0.5rem;
+}
+.side-image-wrapper {
+  width: 100%;
+}
+.side-banner {
+  width: 100%;
+}
